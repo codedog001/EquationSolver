@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['C:\\Users\\45334\\Documents\\PyQtProject\\001\\main.py'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[],

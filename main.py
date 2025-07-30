@@ -1,7 +1,6 @@
 import math
 import os
 import solve
-import keyboard
 import platform
 from colorama import Fore, init
 init()
