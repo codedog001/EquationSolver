@@ -36,6 +36,9 @@ while True:
             print(Fore.GREEN+"x2 = "+str(out[1]))
         if len(out) == 1:
             print(Fore.GREEN+"x = "+str(out))
+        print(Fore.WHITE)
+        os.system("pause")
+        clear()
     elif n == "2":
         clear()
         print("<二元一次方程组求解>")
@@ -60,6 +63,9 @@ while True:
         else:
             print(Fore.GREEN+"x = "+str(ans[0]))
             print(Fore.GREEN+"y = "+str(ans[1]))
+        print(Fore.WHITE)
+        os.system("pause")
+        clear()
     elif n == "0":
         break
     elif n == "9":
